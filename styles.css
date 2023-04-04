@@ -1,0 +1,35 @@
+#current-image-container{
+    background-color: black;
+  color: white;
+  width:35%;
+  height:auto;
+ 
+}
+
+img{
+    width:85%;
+    height:50vh;
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    z-index: -1;
+}
+.heading{
+   
+    color:white;
+    margin-bottom: 0px ;
+
+    padding:1rem;
+}
+.heading1{
+    color:white;
+    margin-bottom: 20px ;
+    margin-top: 10px;
+     padding-left: 1rem;
+     padding-right: 1rem;
+    padding-top:0px;
+    font-family: inter;
+}
+.list{
+    color:blue;
+    cursor: pointer;
+}
